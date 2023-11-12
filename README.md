@@ -1,16 +1,24 @@
-### Hi there 👋
+```css
+#enricserrat { 
+  position: Barcelona; 
+  height: 187cm; 
+  display: boy; 
+  background: Creative Entrepreneur 💡; 
+  color: blue; 
+}
 
-<!--
-**enricserrat/enricserrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#enricserrat .skills {
+  languages: JavaScript, HTML, CSS;
+  frameworks: Laravel, Bootstrap, Node.js;
+  tools: Git, Docker, VSCode;
+  databases: MySQL, MongoDB;
+}
+```
 
-Here are some ideas to get you started:
+<div id="enricserrat">
+  <h2>🔗 Conéctate conmigo</h2>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/enric-serrat-marc%C3%A9-b885ab204/" target="_blank">LinkedIn</a></li>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
